@@ -18,15 +18,15 @@ Lorsque vous pensez à Web1, pensez à Internet Explorer, Yahoo ou Netscape. Alo
 
 ### What is Web2?
 
-Web2 is the version of the internet most of us know and use today. Where Web1 was static and “read-only,” Web2 is “read-write,” and interactive. Under Web2, the internet became more usable: web2 was dynamic and users could consume, interact with, and create content on the internet themselves.
+Web2 est la version de l'internet que la plupart d'entre nous connaissent et utilisent aujourd'hui. Alors que Web1 était statique et en "lecture seule", Web2 est en "lecture-écriture" et interactif. Avec Web2, l'internet est devenu plus utilisable : Web2 était dynamique et les utilisateurs pouvaient consommer, interagir avec et créer eux-mêmes du contenu sur l'internet.
 
-Along the way, the internet became largely dominated by the four behemoths we know today as Apple, Amazon, Facebook, and Google. Web2 also saw an explosion in the use of smartphones, and most of internet use was through mobile apps and hardware built by these companies. While this meant more people could participate in the internet, it also meant the internet was becoming increasingly controlled by the leading digital platforms.
+En cours de route, l'internet a été largement dominé par les quatre mastodontes que nous connaissons aujourd'hui : Apple, Amazon, Facebook et Google. Le Web2 a également vu une explosion de l'utilisation des smartphones, et la majeure partie de l'utilisation de l'internet s'est faite par le biais d'applications et de matériel mobiles conçus par ces entreprises. Si cela signifie que davantage de personnes peuvent participer à l'internet, cela signifie également que l'internet est de plus en plus contrôlé par les principales plateformes numériques.
 
-Why is this a problem? In the centralized internet we know today, Apple can take a 30% cut on all paid-app downloads and in-app purchases, Twitter and Facebook can de-platform the President of the United States, and the everyday consumer has less privacy, security, and control over their online information than ever before.
+Pourquoi est-ce un problème ? Dans l'internet centralisé que nous connaissons aujourd'hui, Apple peut prendre une part de 30% sur tous les téléchargements d'applications payantes et les achats in-app, Twitter et Facebook peuvent dé-platformer le président des États-Unis, et le consommateur quotidien a moins de confidentialité, de sécurité et de contrôle sur ses informations en ligne que jamais auparavant.
 
 <Quiz questionId="9f1f96dc-fa13-4d94-b977-6761b7c7ae69" />
 
-We also see a lot of data breaches happening all across web2 leading to reduced security and privacy for one's personal data. When a user's data gets breached its easy for them to become a victim of identity theft, personal attacks etc.
+Nous constatons également que de nombreuses violations de données se produisent sur le web2, ce qui réduit la sécurité et la confidentialité des données personnelles. Lorsque les données d'un utilisateur sont violées, il est facile pour lui d'être victime d'une usurpation d'identité, d'attaques personnelles, etc.
 
 <Quiz questionId="a722352d-2bce-488b-be7a-b2de8a5ca7b3" />
 
@@ -34,18 +34,18 @@ We also see a lot of data breaches happening all across web2 leading to reduced 
 
 ### What is Web3?
 
-Web3, the future internet we’re moving towards, is a decentralized internet. Under Web3, the internet is shared online and governed by the collective “we,” rather than owned by centralized entities. The Web3 world is one that has open-source protocols at its foundation. Web3 is about rearchitecting internet services and products so that they benefit people rather than entities.
+Web3, le futur Internet vers lequel nous nous dirigeons, est un Internet décentralisé. Avec Web3, l'internet est partagé en ligne et régi par le "nous" collectif, plutôt que par des entités centralisées. Le monde du Web3 est un monde qui repose sur des protocoles à code source ouvert. Le Web3 consiste à réarchitecturer les services et les produits de l'internet afin qu'ils profitent aux personnes plutôt qu'aux entités.
 
 <Quiz questionId="1b4dba53-65b0-4f80-88c1-e4635fd470db" />
 
-Web3 enhances the web we know today by making it decentralized, distributed, open, trustless and permissionless.
+Web3 améliore le web que nous connaissons aujourd'hui en le rendant décentralisé, distribué, ouvert, sans confiance et sans permission.
 
 <Quiz questionId="b5bc3302-3659-43ad-bd8f-55b81ee9b1f5" />
 
-- It is getting built such that everything would happen in a decentralized distributed way giving no central authority access to control the system.
-- ‘Open’ as it would be open sourced software built by an open and accessible community of developers and executed in full view of the world.
-- ‘Trustless’ in that the network itself allows participants to interact publicly or privately without a trusted third party.
-- ‘Permissionless’ in that anyone, both users and suppliers,can participate without authorisation from a governing body.
+- Il est construit de telle sorte que tout se passe de manière décentralisée et distribuée, sans qu'aucune autorité centrale ne puisse contrôler le système.
+- Ouvert", car il s'agit d'un logiciel libre construit par une communauté ouverte et accessible de développeurs et exécuté au vu et au su de tous.
+- Sans confiance", car le réseau lui-même permet aux participants d'interagir publiquement ou en privé sans l'intervention d'un tiers de confiance.
+- Sans autorisation, car tout le monde, utilisateurs et fournisseurs, peut participer sans l'autorisation d'un organe directeur.
 
 <Quiz questionId="e4a38e72-1844-4334-9dd2-515a94ca001d" />
 
@@ -54,11 +54,11 @@ Web3 enhances the web we know today by making it decentralized, distributed, ope
 ---
 
 ### Summary
-Web1: Read 📖
+Web1: Lecture 📖
 
-Web2: Read-Write 📖 🖊️
+Web2: Lecture-Ecriture 📖 🖊️
 
-Web3: Read-Write-Own 📖 🖊️ 🔑
+Web3: Lecture-Ecriture-Propriété 📖 🖊️ 🔑
 
 <Quiz questionId="c4c29ddf-463a-429f-b074-178a0c8bff18" />
 
