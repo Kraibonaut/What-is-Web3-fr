@@ -1,18 +1,19 @@
 # Level 2 - What is Web3
 
-In this module you would learn about what is web3.
+Dans ce module, vous apprendrez ce qu'est le web3.
 
 ---
 
-It’s probably most helpful to think about Web3 in the context of previous internet paradigms, Web1 and Web2.
+Il est probablement plus utile de penser au Web3 dans le contexte des paradigmes Internet précédents, le Web1 et le Web2.
 
 ### Web1 (1980s - early 2000’s)
 
-The first phase of the Internet, Web1, was mainly about providing the everyday consumer with online content and information.
+La première phase de l'internet, Web1, consistait principalement à fournir au consommateur quotidien du contenu et des informations en ligne.
 
-As consumers could only read information or content online, and not yet interact with it, Web1 was incredibly static.
+Comme les consommateurs ne pouvaient que lire des informations ou du contenu en ligne, et pas encore interagir avec eux, Web1 était incroyablement statique.
 
-When you think about Web1, think Internet Explorer, Yahoo, or Netscape. While web1 was read-only, the companies we associate with web1 were built on open protocols (meaning pretty much any person or organization could build on the internet and know they were subject to the same rules as the next person or organization). 
+Lorsque vous pensez à Web1, pensez à Internet Explorer, Yahoo ou Netscape. Alors que le Web1 était en lecture seule, les entreprises que nous associons au Web1 étaient construites sur des protocoles ouverts (ce qui signifie que pratiquement toute personne ou organisation pouvait construire sur l'internet en sachant qu'elle était soumise aux mêmes règles que la personne ou l'organisation suivante). 
+
 
 
 ### What is Web2?
